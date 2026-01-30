@@ -8,4 +8,4 @@ Most recent compatible shapefile available at
 https://www.cso.ie/en/census/census2011boundaryfiles/
 as the Electoral Divisions Zip file
 
-this file matches that zip file for population data
+this file matches that zip file with population data, reordered for changes made in 2022
