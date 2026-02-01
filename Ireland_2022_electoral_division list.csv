@@ -1,4 +1,4 @@
-"EDNAME,C,80",2022 Population
+EDNAME,2022 Population
 Tedavnet,1008
 Tehallan,905
 Tullycorbet,658
@@ -350,17 +350,17 @@ Dundrum-Kilmacud,3495
 Dundrum-Sandyford,7638
 Dundrum-Sweetmount,2689
 Dundrum-Taney,2748
-D·n Laoghaire-East Central,2604
-D·n Laoghaire-Glasthule,2982
-D·n Laoghaire-Glenageary,4516
-D·n Laoghaire-Monkstown Farm,2321
-D·n Laoghaire-Mount Town,1915
-D·n Laoghaire-Sallynoggin East,2941
-D·n Laoghaire-Sallynoggin South,1434
-D·n Laoghaire-Sallynoggin West,4354
-D·n Laoghaire-Sandycove,3688
-D·n Laoghaire-Salthill,1758
-D·n Laoghaire-West Central,2726
+DÂ·n Laoghaire-East Central,2604
+DÂ·n Laoghaire-Glasthule,2982
+DÂ·n Laoghaire-Glenageary,4516
+DÂ·n Laoghaire-Monkstown Farm,2321
+DÂ·n Laoghaire-Mount Town,1915
+DÂ·n Laoghaire-Sallynoggin East,2941
+DÂ·n Laoghaire-Sallynoggin South,1434
+DÂ·n Laoghaire-Sallynoggin West,4354
+DÂ·n Laoghaire-Sandycove,3688
+DÂ·n Laoghaire-Salthill,1758
+DÂ·n Laoghaire-West Central,2726
 Foxrock-Beechpark,1758
 Foxrock-Carrickmines,6324
 Foxrock-Deans Grange,2523
@@ -774,7 +774,7 @@ Mullary,1870
 St. Peter's,10951
 Termonfeckin,4003
 St. Mary's,6754
-Ceannanus M¾r (Kells) Urban,2219
+Ceannanus MÂ¾r (Kells) Urban,2219
 Navan Urban,3814
 Trim Urban,1383
 Drumcondra,1376
@@ -799,7 +799,7 @@ Boherboy,324
 Burry,281
 Carrickleck,457
 Castlekeeran,513
-Ceannanus M¾r (Kells) Rural,4980
+Ceannanus MÂ¾r (Kells) Rural,4980
 Cruicetown,417
 Girley,458
 Kilmainham,857
@@ -1685,13 +1685,13 @@ Templebreedy,4498
 Templemichael,778
 Aghinagh,518
 Aglish,1525
-BÚal ?tha an Ghaorthaidh (Maigh Chromtha),561
+BÃšal ?tha an Ghaorthaidh (Maigh Chromtha),561
 Ceann Droma,333
 Cannaway,722
 Cleanrath,213
 Clondrohid,894
 Clonmoyle,608
-Doire Fhİnİn,242
+Doire FhÃnÃn,242
 Gort na Tiobratan,474
 Gowlane,1326
 Greenville,309
@@ -1705,7 +1705,7 @@ Mashanaglass,502
 Mountrivers,726
 Rahalisk,615
 An Sliabh Riabhach,978
-Na hUlßin,644
+Na hUlÃŸin,644
 Warrenscourt,789
 Ardskeagh,510
 Ballyclogh,794
@@ -1820,7 +1820,7 @@ Baile an Sceilg,419
 Ballybrack,102
 Caher,2061
 Caherdaniel,316
-Canuig/Mßistir Gaoithe,225
+Canuig/MÃŸistir Gaoithe,225
 Castlequin,583
 Curraghbeg,187
 Darrynane,193
@@ -1832,29 +1832,29 @@ Lickeen,99
 Loughcurrane,343
 Maum,265
 Portmagee,365
-Toghroinn Fhİonßin,175
+Toghroinn FhÃonÃŸin,175
 Teeranearagh,297
 Valencia,658
 Ballinvoher,586
 An Baile Dubh,136
 Ballynacourty,298
-CÚ BhrÚanainn,159
+CÃš BhrÃšanainn,159
 Castlegregory,1041
-An Clochßn,260
+An ClochÃŸn,260
 Deelis,376
 An Daingean,1671
-D·n Chaoin,209
-D·n Urlann,481
+DÂ·n Chaoin,209
+DÂ·n Urlann,481
 Na Gleannta,1806
 Inch,160
-Cill MaoilchÚadair,514
-Cill Chußin,422
+Cill MaoilchÃšadair,514
+Cill ChuÃŸin,422
 Cinn Aird,330
 Lack,273
-Mßrthain,256
+MÃŸrthain,256
 An Mhin Aird,444
 Stradbally,238
-Ceann Trß,422
+Ceann TrÃŸ,422
 Ardea,193
 Banawn,267
 Cappagh,404
@@ -2506,29 +2506,29 @@ Doonloughan,97
 Errislannan,234
 An Uillinn,105
 Inishbofin,184
-An Cnoc Buİ,875
+An Cnoc BuÃ,875
 Moyrus,334
 Abhainn Ghabhla,299
 Rinvyle,1253
 Roundstone,445
 Sillerna,466
 Scainimh,606
-Eanach Dh·in,1978
+Eanach DhÂ·in,1978
 Aughrim,1317
 Ballintemple,1609
 Ballynacourty,1233
 Barna,3866
 Belleville,670
-An Carn M¾r,2791
-Ceathr· an Bhr·naigh,1040
-Baile Chlßir,2388
+An Carn MÂ¾r,2791
+CeathrÂ· an BhrÂ·naigh,1040
+Baile ChlÃŸir,2388
 Clarinbridge,4143
 Deerpark,1440
 Na Forbacha,1634
 Galway Rural,211
 ?rainn,1347
 Kilcummin,1403
-Cill Aithnİn,1108
+Cill AithnÃn,1108
 Lackaghbeg,1614
 Liscananaun,1601
 Lisheenavalla,1085
@@ -2536,7 +2536,7 @@ Maigh Cuilinn,2459
 Oranmore,4721
 Sailearna,1503
 Sliabh an Aonaigh,797
-An SpidÚal,1842
+An SpidÃšal,1842
 Stradbally,1186
 Tullokyne,2303
 Ballinastack,340
@@ -2624,13 +2624,13 @@ Taghboy,229
 Camas,332
 An Fhairche,1267
 Conga,528
-An Crompßn,2665
+An CrompÃŸn,2665
 An Chorr,154
 Garmna,1324
-Cill Chuimİn,170
+Cill ChuimÃn,170
 Letterbrickaun,262
 Letterfore,283
-Leitir M¾ir,883
+Leitir MÂ¾ir,883
 Oughterard,2819
 An Ros,89
 An Turlach,555
@@ -2774,7 +2774,7 @@ Attymass West,273
 Ballina Rural,3199
 Ballycastle,585
 Ballysakeery,620
-BÚal Deirg M¾r,150
+BÃšal Deirg MÂ¾r,150
 Bunaveela,78
 Carrowmore,896
 Crossmolina North,1105
@@ -2812,20 +2812,20 @@ Abhainn Bhrain,213
 Portroyal,603
 Roslee,443
 Shrule,1211
-An Geata M¾r Thuaidh,1014
-An Geata M¾r Theas,881
+An Geata MÂ¾r Thuaidh,1014
+An Geata MÂ¾r Theas,881
 Bangor,508
-Barr R·scaİ,99
-BÚal an Mhuirthead,2143
+Barr RÂ·scaÃ,99
+BÃšal an Mhuirthead,2143
 Gleann na Muaidhe,209
 Gleann Chaisil,499
 Glenco/Sheskin,80
 Goolamore,130
 Cnoc an Daimh,314
 Cnoc na Lobhar,768
-Moing na B¾,249
+Moing na BÂ¾,249
 Na Monga,223
-Cnoc na Rßithe,695
+Cnoc na RÃŸithe,695
 Addergoole,900
 Balla,1661
 Ballinafad,621
@@ -2892,7 +2892,7 @@ Ballycroy North,285
 Ballycroy South,332
 Clare Island,194
 Clogher,948
-An Corrßn,712
+An CorrÃŸn,712
 Croaghpatrick,699
 Derryloughan,771
 Dumha ?ige,592
@@ -3226,23 +3226,23 @@ Creeslough,783
 Cross Roads,2071
 Doe Castle,278
 Dunfanaghy,1015
-D·n L·iche,689
+DÂ·n LÂ·iche,689
 Gort an Choirce,1693
 Machaire Chlochair,2841
-Mİn an Chladaigh,1408
+MÃn an Chladaigh,1408
 Anagaire,2274
-?rainn Mh¾r,478
+?rainn MhÂ¾r,478
 Ardara,1280
-Cr¾ Bheithe,165
-Cr¾ Chaorach,123
+CrÂ¾ Bheithe,165
+CrÂ¾ Chaorach,123
 Crownarad,347
 Dawros,717
-An D·choraidh,82
-An Clochßn Liath,1919
+An DÂ·choraidh,82
+An ClochÃŸn Liath,1919
 Baile na Finne,294
 Gleann Cholm Cille,732
 Glengesh,694
-Gleann LÚithİn,156
+Gleann LÃšithÃn,156
 Glenties,1475
 An Ghrafaidh,150
 Inis Caoil,84
@@ -3253,7 +3253,7 @@ Largymore,523
 Leitir Mhic an Bhaird,727
 Maas,272
 An Machaire,754
-Mßlainn Bhig,373
+MÃŸlainn Bhig,373
 Mulmosog,238
 Inis Mhic an Doirn,1496
 Tieveskeelta,134
@@ -3408,3 +3408,4 @@ Rackwallace,974
 Scotstown,1208
 Shanmullagh,248
 Sheskin,683
+
